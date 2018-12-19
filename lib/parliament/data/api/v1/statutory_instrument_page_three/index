@@ -1,0 +1,127 @@
+<https://id.parliament.uk/fc5xBbqM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrumentPaper> .
+<https://id.parliament.uk/fc5xBbqM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/fc5xBbqM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
+<https://id.parliament.uk/fc5xBbqM> <https://id.parliament.uk/schema/laidThingName> "Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018" .
+<https://id.parliament.uk/fc5xBbqM> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/ps2U1IZK> .
+<https://id.parliament.uk/fc5xBbqM> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/A2EBAqdz> .
+<https://id.parliament.uk/ps2U1IZK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/ps2U1IZK> <https://id.parliament.uk/schema/layingDate> "2018-12-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/ps2U1IZK> <https://id.parliament.uk/schema/layingHasLayingBody> <https://id.parliament.uk/XouN12Ow> .
+<https://id.parliament.uk/XouN12Ow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/groupName> "Department for Transport" .
+<https://id.parliament.uk/A2EBAqdz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/A2EBAqdz> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/5S6p4YsP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Procedure> .
+<https://id.parliament.uk/5S6p4YsP> <https://id.parliament.uk/schema/procedureName> "Made negative" .
+<https://id.parliament.uk/ITXUonqE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrumentPaper> .
+<https://id.parliament.uk/ITXUonqE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/ITXUonqE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
+<https://id.parliament.uk/ITXUonqE> <https://id.parliament.uk/schema/laidThingName> "Air Services (Competition) (Amendment) (EU Exit) Regulations 2019" .
+<https://id.parliament.uk/ITXUonqE> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/VH2ER3VE> .
+<https://id.parliament.uk/ITXUonqE> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/HQCiX7fT> .
+<https://id.parliament.uk/VH2ER3VE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/VH2ER3VE> <https://id.parliament.uk/schema/layingDate> "2018-12-05+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/VH2ER3VE> <https://id.parliament.uk/schema/layingHasLayingBody> <https://id.parliament.uk/XouN12Ow> .
+<https://id.parliament.uk/HQCiX7fT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/HQCiX7fT> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/H5YJQsK2> .
+<https://id.parliament.uk/H5YJQsK2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Procedure> .
+<https://id.parliament.uk/H5YJQsK2> <https://id.parliament.uk/schema/procedureName> "Draft affirmative" .
+<https://id.parliament.uk/8frYJ6jx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrumentPaper> .
+<https://id.parliament.uk/8frYJ6jx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/8frYJ6jx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
+<https://id.parliament.uk/8frYJ6jx> <https://id.parliament.uk/schema/laidThingName> "Bank of England (Amendment) (EU Exit) Regulations 2018" .
+<https://id.parliament.uk/8frYJ6jx> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/nTLjHBHV> .
+<https://id.parliament.uk/8frYJ6jx> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/LKVUVoLV> .
+<https://id.parliament.uk/nTLjHBHV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/nTLjHBHV> <https://id.parliament.uk/schema/layingDate> "2018-12-05+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/nTLjHBHV> <https://id.parliament.uk/schema/layingHasLayingBody> <https://id.parliament.uk/HYfypSOE> .
+<https://id.parliament.uk/HYfypSOE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/HYfypSOE> <https://id.parliament.uk/schema/groupName> "HM Treasury" .
+<https://id.parliament.uk/LKVUVoLV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/LKVUVoLV> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/hMBVaeZp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrumentPaper> .
+<https://id.parliament.uk/hMBVaeZp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/hMBVaeZp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
+<https://id.parliament.uk/hMBVaeZp> <https://id.parliament.uk/schema/laidThingName> "Combined Authorities (Mayoral Elections) (Amendment) Order 2019" .
+<https://id.parliament.uk/hMBVaeZp> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/gIOmuJOG> .
+<https://id.parliament.uk/hMBVaeZp> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/0vFJ6J3B> .
+<https://id.parliament.uk/gIOmuJOG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/gIOmuJOG> <https://id.parliament.uk/schema/layingDate> "2018-12-05+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/gIOmuJOG> <https://id.parliament.uk/schema/layingHasLayingBody> <https://id.parliament.uk/7gnSwbLO> .
+<https://id.parliament.uk/7gnSwbLO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/7gnSwbLO> <https://id.parliament.uk/schema/groupName> "Cabinet Office" .
+<https://id.parliament.uk/0vFJ6J3B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/0vFJ6J3B> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/H5YJQsK2> .
+<https://id.parliament.uk/DRaMq2zo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrumentPaper> .
+<https://id.parliament.uk/DRaMq2zo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/DRaMq2zo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
+<https://id.parliament.uk/DRaMq2zo> <https://id.parliament.uk/schema/laidThingName> "Environment (Amendment etc) (EU Exit) Regulations 2019" .
+<https://id.parliament.uk/DRaMq2zo> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/FSeZiFXC> .
+<https://id.parliament.uk/DRaMq2zo> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/VKWPRdT8> .
+<https://id.parliament.uk/FSeZiFXC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/FSeZiFXC> <https://id.parliament.uk/schema/layingDate> "2018-12-05+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/FSeZiFXC> <https://id.parliament.uk/schema/layingHasLayingBody> <https://id.parliament.uk/5LQ5Ar74> .
+<https://id.parliament.uk/5LQ5Ar74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/5LQ5Ar74> <https://id.parliament.uk/schema/groupName> "Department for Environment, Food and Rural Affairs" .
+<https://id.parliament.uk/VKWPRdT8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/VKWPRdT8> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/H5YJQsK2> .
+<https://id.parliament.uk/hGttWTCu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrumentPaper> .
+<https://id.parliament.uk/hGttWTCu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/hGttWTCu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
+<https://id.parliament.uk/hGttWTCu> <https://id.parliament.uk/schema/laidThingName> "European Economic Interest Grouping (Amendment) (EU Exit) Regulations 2018" .
+<https://id.parliament.uk/hGttWTCu> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/7EnCjyYA> .
+<https://id.parliament.uk/hGttWTCu> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/zEcACeA3> .
+<https://id.parliament.uk/7EnCjyYA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/7EnCjyYA> <https://id.parliament.uk/schema/layingDate> "2018-12-05+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/7EnCjyYA> <https://id.parliament.uk/schema/layingHasLayingBody> <https://id.parliament.uk/yiuTaSI4> .
+<https://id.parliament.uk/yiuTaSI4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/yiuTaSI4> <https://id.parliament.uk/schema/groupName> "Department for Business, Energy and Industrial Strategy" .
+<https://id.parliament.uk/zEcACeA3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/zEcACeA3> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/vaKu4qs8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrumentPaper> .
+<https://id.parliament.uk/vaKu4qs8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/vaKu4qs8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
+<https://id.parliament.uk/vaKu4qs8> <https://id.parliament.uk/schema/laidThingName> "European Network of Employment Services (EU Exit) Regulations 2018" .
+<https://id.parliament.uk/vaKu4qs8> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/tS2oQZlU> .
+<https://id.parliament.uk/vaKu4qs8> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/YhK29q2P> .
+<https://id.parliament.uk/tS2oQZlU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/tS2oQZlU> <https://id.parliament.uk/schema/layingDate> "2018-12-05+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/tS2oQZlU> <https://id.parliament.uk/schema/layingHasLayingBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/XbTBTDMo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/XbTBTDMo> <https://id.parliament.uk/schema/groupName> "Department for Work and Pensions" .
+<https://id.parliament.uk/YhK29q2P> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/YhK29q2P> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/0MMmylhu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrumentPaper> .
+<https://id.parliament.uk/0MMmylhu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/0MMmylhu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
+<https://id.parliament.uk/0MMmylhu> <https://id.parliament.uk/schema/laidThingName> "European Public Limited-liability Company (Amendment etc) (EU Exit) Regulations 2018" .
+<https://id.parliament.uk/0MMmylhu> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/xcPU9kll> .
+<https://id.parliament.uk/0MMmylhu> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/i0w57bxv> .
+<https://id.parliament.uk/xcPU9kll> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/xcPU9kll> <https://id.parliament.uk/schema/layingDate> "2018-12-05+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/xcPU9kll> <https://id.parliament.uk/schema/layingHasLayingBody> <https://id.parliament.uk/yiuTaSI4> .
+<https://id.parliament.uk/i0w57bxv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/i0w57bxv> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/WbkzXUHu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrumentPaper> .
+<https://id.parliament.uk/WbkzXUHu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/WbkzXUHu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
+<https://id.parliament.uk/WbkzXUHu> <https://id.parliament.uk/schema/laidThingName> "Floods and Water (Amendment etc) (EU Exit) Regulations 2019" .
+<https://id.parliament.uk/WbkzXUHu> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/nPbDqaTc> .
+<https://id.parliament.uk/WbkzXUHu> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/W5QMxkZY> .
+<https://id.parliament.uk/nPbDqaTc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/nPbDqaTc> <https://id.parliament.uk/schema/layingDate> "2018-12-05+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/nPbDqaTc> <https://id.parliament.uk/schema/layingHasLayingBody> <https://id.parliament.uk/5LQ5Ar74> .
+<https://id.parliament.uk/W5QMxkZY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/W5QMxkZY> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/H5YJQsK2> .
+<https://id.parliament.uk/MNsVtBBP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrumentPaper> .
+<https://id.parliament.uk/MNsVtBBP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/MNsVtBBP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
+<https://id.parliament.uk/MNsVtBBP> <https://id.parliament.uk/schema/laidThingName> "Local Authorities (Mayoral Elections) (England and Wales) (Amendment) (England) Regulations 2019" .
+<https://id.parliament.uk/MNsVtBBP> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/nKlo8rRs> .
+<https://id.parliament.uk/MNsVtBBP> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/Vm9KPQq9> .
+<https://id.parliament.uk/nKlo8rRs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/nKlo8rRs> <https://id.parliament.uk/schema/layingDate> "2018-12-05+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/nKlo8rRs> <https://id.parliament.uk/schema/layingHasLayingBody> <https://id.parliament.uk/7gnSwbLO> .
+<https://id.parliament.uk/Vm9KPQq9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/Vm9KPQq9> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/H5YJQsK2> .
+_:node48837118 <https://id.parliament.uk/schema/count> "532"^^<http://www.w3.org/2001/XMLSchema#integer> .
